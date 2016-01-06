@@ -1,2 +1,2 @@
-# myrepo
-It's a  just testing repository
+LPB
+A repo for training project
